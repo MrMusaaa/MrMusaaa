@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Musab%20Uzman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Aspiring%20Penetration%20Tester&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Offensive+Security+%7C+Penetration+Testing;Kali+Linux+%2F+Nmap+%2F+Burp+Suite;Certified+Ethical+Hacker;Building+Practical+Red+Team+Skills" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=sudo+access+granted...;Scanning+for+open+ports+%F0%9F%94%8D;Offensive+Security+%7C+Penetration+Testing;root%40kali%3A~%23+nmap+-sV+-A+target;Exploiting...+Patience...+Escalating...;Certified+Ethical+Hacker+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br/>
 
-![Location](https://img.shields.io/badge/Location-Esenler,_İstanbul-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-İstanbul-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Education](https://img.shields.io/badge/İstanbul_Üniversitesi-Bilgisayar_Programcılığı-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musab-uzman)
@@ -26,17 +26,39 @@
 
 ## 🎯 About Me
 
-I'm a Cybersecurity student at **İstanbul Üniversitesi** (Computer Programming, Distance Education), focused on **offensive security** and **penetration testing**. I hold a **Certified Ethical Hacker (CEH)** certification and spend my time building hands-on skills in reconnaissance, web application security, password auditing, and privilege escalation through CTF labs and self-driven practice.
+```bash
+musab@kali:~$ whoami
+> Cybersecurity Student @ İstanbul Üniversitesi | CEH Certified | Future Pentester
 
-My goal is to translate theoretical security knowledge into practical, field-tested skills as an intern on a **Penetration Testing team**, and to keep growing into a reliable offensive security professional.
+musab@kali:~$ cat mission.txt
+> Break things ethically. Understand how they broke. Fix them before someone else finds them.
+
+musab@kali:~$ nmap -sV -p- localhost --skills
+> PORT      STATE   SERVICE
+> 21/tcp    open    recon-and-enum
+> 80/tcp    open    web-exploitation
+> 443/tcp   open    burp-suite-analysis
+> 1337/tcp  open    ctf-solving
+> 4444/tcp  open    always-listening 😉
+```
+
+I'm a Cybersecurity student focused on **offensive security** and **penetration testing** — CEH certified, and constantly turning CTF rooms and home-lab chaos into real skills. My toolkit ranges from recon (Nmap, Gobuster) to exploitation (Burp Suite, SQLmap) to "wait, I'm root now?" moments (LinPEAS/WinPEAS).
+
+Currently on the hunt for a **Penetration Testing internship** — send `SYN`, I'll respond with `SYN-ACK`. 🤝
 
 ```yaml
 Currently Learning: Advanced Web Exploitation, Active Directory Attacks
 Currently Practicing: TryHackMe & CTF rooms (privilege escalation, web exploitation)
 Open To: Cybersecurity / Penetration Testing Internships
 Ask Me About: Recon, Nmap scanning, Burp Suite, password auditing
-Fun Fact: Automating repetitive recon tasks with Python scripts
+Fun Fact: My shell history is 80% nmap flags I'll never remember without --help
 ```
+
+<div align="center">
+
+> 🕵️ *"There is no patch for human stupidity — but there's always a writeup for it."*
+
+</div>
 
 <br/>
 
@@ -166,6 +188,18 @@ Once set up, the generated snake.svg will render below.
 
 <br/>
 
+## 💻 Terminal Wisdom of the Day
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=dark" width="70%"/>
+
+</div>
+
+<!-- If you're reading this in view-source, you already have the recon mindset. Respect. 🫡 -->
+
+<br/>
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -180,7 +214,9 @@ Once set up, the generated snake.svg will render below.
 
 <div align="center">
 
-*"Every open port tells a story — I'm here to read it."*
+*"Every open port tells a story — I'm here to read it."* 🔓
+
+![Visitor Badge](https://img.shields.io/badge/status-still_scanning...-6D28D9?style=flat-square)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" width="100%"/>
 

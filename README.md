@@ -72,9 +72,24 @@ ilgi_alanı: Offensive Security, Red Team, Zafiyet Analizi
 
 <div align="center">
 
+**Live Terminal Feed**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2000&pause=400&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&width=720&height=150&separator=;&lines=root%40kali%3A~%23+nmap+-sV+-A+10.10.10.1;Scanning+1000+ports+%5B%23%23%23%23%23%23%23%23%23%23%5D+100%25;22%2Ftcp+open++ssh+++++80%2Ftcp+open++http;root%40kali%3A~%23+sqlmap+-u+target+--dbs;%5B%2A%5D+testing+for+SQL+injection...;%5B%2B%5D+parameter+is+vulnerable+%E2%9C%93;root%40kali%3A~%23+hydra+-l+admin+-P+rockyou.txt;%5B%2A%5D+cracking+password...+%5B%23%23%23%23%23%23%5D;%5B%2B%5D+password+found%3A+%2A%2A%2A%2A%2A%2A%2A%2A;access_granted+%F0%9F%94%93" alt="Terminal Feed"/>
+
+</div>
+<br>
+
+<div align="center">
+
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MrMusaaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 
-<br>
+</div>
+
+<!--
+🐍 Snake animasyonu otomatik oluşmaz — GitHub Action kurulumu gerekir.
+Adımlar için README'nin sonundaki kuruluma bakın.
+-->
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/MrMusaaa/MrMusaaa/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 
